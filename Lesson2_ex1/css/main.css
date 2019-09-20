@@ -3,3 +3,11 @@ body{
     height: 1140px;
     margin: 0 auto;
 }
+
+#milk:checked,label:hover,label:hover{
+    background-color: #000;
+    color: #6bff3d;
+	border-top: 1px solid #6bff3d;
+    border-bottom: 1px solid #6bff3d;
+    font-size: 30px;
+}
